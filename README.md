@@ -121,3 +121,6 @@ In my output video, I included some road informations.
 
 ## Result  
 <a href="./output_images/project_video_draw.mp4">video file is here</a>
+
+## Discussion
+Due to limited conditions, I did not try extreme weather tests, and did not implement harder challenge video. I will be try it in the future.
